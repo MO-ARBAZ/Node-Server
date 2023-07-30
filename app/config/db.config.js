@@ -9,7 +9,8 @@ module.exports = {
       min: 0,
       acquire: 30000,
       idle: 10000
-    }
+    },
+    insecureAuth: true
   };
 // db.js (example for database setup with Sequelize)
 
